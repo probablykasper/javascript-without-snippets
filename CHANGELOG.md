@@ -1,5 +1,5 @@
-## 0.1.1
-* Added changelog, yay
+## 0.1.x
+* Nothing dev related
 
 ## 0.1.0
 * Initial release
