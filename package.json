@@ -1,6 +1,6 @@
 {
   "name": "javascript-without-snippets",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "language-javascript without snippets, letting you easily add your own",
   "engines": {
     "atom": "*",
